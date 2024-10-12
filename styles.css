@@ -10,7 +10,7 @@ body {
     scrollbar-width: thin;
     scrollbar-color: transparent transparent;
     cursor: default; /* Set to default cursor */
-     background-image: url('deskbg.png');
+    background-image: url('deskbg.png');
 }
 body::-webkit-scrollbar {
     display: none;
