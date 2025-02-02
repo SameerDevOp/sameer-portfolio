@@ -1,6 +1,6 @@
 /* General Styles */
 body {
-    background-image: url('../deskbg.png'); /* Set the background image */
+    background-image: url("deskbg.png"); /* Set the background image */
     background-size: cover; /* Ensure the background covers the entire area */
     background-position: center; /* Center the image */
     background-attachment: fixed; /* Keep the image fixed during scrolling */
@@ -88,7 +88,7 @@ main {
 
 /* Full-Screen Hero Section */
 .hero-section {
-    background-image: url('../deskbg.png');
+    background-image: url("deskbg.png");
     background-size: cover;
     background-position: center;
     height: calc(100vh - 80px);
