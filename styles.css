@@ -1,6 +1,6 @@
 /* General Styles */
 body {
-    background-image: url("deskbg.png"); /* Set the background image */
+    background-image: url("https://github.com/SameerDevOp/sameer-portfolio/blob/c05a3f044e4f684a83f7100e1e6ca24c8bd48837/deskbg.png"); /* Set the background image */
     background-size: cover; /* Ensure the background covers the entire area */
     background-position: center; /* Center the image */
     background-attachment: fixed; /* Keep the image fixed during scrolling */
@@ -88,7 +88,7 @@ main {
 
 /* Full-Screen Hero Section */
 .hero-section {
-    background-image: url("deskbg.png");
+    background-image: url("https://github.com/SameerDevOp/sameer-portfolio/blob/c05a3f044e4f684a83f7100e1e6ca24c8bd48837/deskbg.png");
     background-size: cover;
     background-position: center;
     height: calc(100vh - 80px);
