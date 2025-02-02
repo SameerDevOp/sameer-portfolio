@@ -1,6 +1,6 @@
 /* General Styles */
 body {
-    background-image: url('../https://graph.org/file/982e3a3636882705c3c49-23d614b8ac99fc2e86.jpg'); /* Set the background image */
+    background-image: url('../deskbg.png'); /* Set the background image */
     background-size: cover; /* Ensure the background covers the entire area */
     background-position: center; /* Center the image */
     background-attachment: fixed; /* Keep the image fixed during scrolling */
@@ -88,7 +88,7 @@ main {
 
 /* Full-Screen Hero Section */
 .hero-section {
-    background-image: url('../https://graph.org/file/982e3a3636882705c3c49-23d614b8ac99fc2e86.jpg');
+    background-image: url('../deskbg.png');
     background-size: cover;
     background-position: center;
     height: calc(100vh - 80px);
