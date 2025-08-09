@@ -5,7 +5,7 @@ body {
     background-position: center; /* Center the image */
     background-attachment: fixed; /* Keep the image fixed during scrolling */
     background-repeat: no-repeat; /* Prevent tiling of the background */
-    color: #f0f0f0;
+/*     color: #f0f0f0; */
     font-family: 'Inria Sans', sans-serif;
     margin: 0;
     padding: 0;
@@ -444,6 +444,7 @@ footer p span {
     color: #ffffff; /* Ensure the text color is visible */
     margin: 10px 0; /* Add margin for spacing */
 }
+
 
 
 
