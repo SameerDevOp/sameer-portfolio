@@ -88,7 +88,7 @@ main {
 
 /* Full-Screen Hero Section */
 .hero-section {
-    background-image: url("https://github.com/SameerDevOp/sameer-portfolio/blob/c05a3f044e4f684a83f7100e1e6ca24c8bd48837/deskbg.png");
+    background-image: url("https://github.com/SameerDevOp/sameer-portfolio/blob/main/deskbg.png");
     background-size: cover;
     background-position: center;
     height: calc(100vh - 80px);
@@ -444,4 +444,5 @@ footer p span {
     color: #ffffff; /* Ensure the text color is visible */
     margin: 10px 0; /* Add margin for spacing */
 }
+
 
