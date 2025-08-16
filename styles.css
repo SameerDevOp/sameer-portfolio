@@ -88,7 +88,7 @@ main {
 
 /* Full-Screen Hero Section */
 .hero-section {
-    background-image: url("https://ibb.co/V022PmG7");
+    background-image: url('deskbg.png');
     background-size: cover;
     background-position: center;
     height: calc(100vh - 80px);
@@ -444,6 +444,7 @@ footer p span {
     color: #ffffff; /* Ensure the text color is visible */
     margin: 10px 0; /* Add margin for spacing */
 }
+
 
 
 
